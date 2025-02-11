@@ -1,9 +1,12 @@
 {
+    "description": "Personal-Portfolio",
+    "repo": "https://github.com/theanuragg/Portfolio",
     "owner": {
-        "username": "anuragjawalkar",
-        "email": "anurag24jawalkar@gmail.com"
+        "username": "Anurag",
+        "discord": "anurag6883",
+        "email" : "anuraggmx@gmail.com"
     },
     "record": {
-        "CNAME": "anuragjawalkar.github.io"
+        "A": ["75.2.60.5"]
     }
 }
